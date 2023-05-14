@@ -1,0 +1,7 @@
+﻿  glad.c
+  Project.cpp
+D:\угату\2_курс\графика\лаба 4 а\skybox\Project\filesystem.h(7,1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+D:\угату\2_курс\графика\лаба 4 а\skybox\Project\filesystem.h(7,1): message : "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+  stb_image.cpp
+  Создание кода...
+  Project.vcxproj -> D:\угату\2_курс\графика\лаба 4 а\skybox\Project\x64\Debug\Skybox.exe
